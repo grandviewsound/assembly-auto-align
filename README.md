@@ -12,3 +12,5 @@ Keyboard Maestro macros for Pro Tools assembly.
 - Manually enter offset value in Auto-Align Post window, into the Keyboad Maestro user input window, be sure to include (+/-) in front of number
 - Hit enter and give it a second to change nudge value, then nudge clips
 - Confirm sync if needed and then move onto next clip
+
+Check demo video for detailed tutorial.
