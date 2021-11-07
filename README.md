@@ -9,8 +9,8 @@ Keyboard Maestro macros for Pro Tools assembly.
 - Create a group for the sound rolls
 - Switch nudge value type to samples
 - With groups on, select a clip of sound rolls and trigger macro (default is Command-Option-Control-Shift-*)
-- Manually enter offset value in Auto-Align Post window, into the Keyboad Maestro user input window, be sure to include (+/-) in front of number
-- Hit enter and give it a second to change nudge value, then nudge clips
-- Confirm sync if needed and then move onto next clip
+- (Auto Align v1 Only) Manually enter offset value in Auto-Align Post window, into the Keyboad Maestro user input window, be sure to include (+/-) in front of number
+- (Auto Align v1 Only) Hit enter and give it a second to change nudge value, then nudge clips
+- Confirm sync if needed and then move onto next clip (Control-Tab)
 
 Check demo video for detailed tutorial.
